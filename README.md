@@ -7,8 +7,8 @@
 -[x] useHover
 -[x] useConfirm
 -[x] usePreventLeave
--[] useBeforeLeave
--[] useFadeIn
+-[x] useBeforeLeave
+-[x] useFadeIn
 -[] useFullScreen
 -[] useNetwork
 -[] useNotification
