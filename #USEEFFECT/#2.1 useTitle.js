@@ -3,7 +3,7 @@
 
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
+
 
     const useTitle = initialTitle => {
       const [title, setTitle] = useState(initialTitle);

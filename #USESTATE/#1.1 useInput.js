@@ -3,7 +3,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
 
 const useInput = (initialValue) => {
   const [value, setValue] = useState(initialValue);

@@ -1,7 +1,7 @@
 //useClick 사용해서 글자누르면 console에 명령어 호출되게 만들기.
 import React, { useState, useEffect, useRef } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
+
 
     const useClick = (onClick) => {
       if (typeof onClick !== "function") {
