@@ -1,16 +1,3 @@
-# React-Hooks_2021_ReactJS
+# @seongsamim/use-title
 
--[x] useInput
--[x] useTabs
--[x] useTitle
--[x] useClick
--[x] useHover
--[x] useConfirm
--[x] usePreventLeave
--[x] useBeforeLeave
--[x] useFadeIn
--[x] useNetwork
--[x] useScroll
--[x] useFullScreen
--[x] useNotification
--[x] useAxios
+React Hook to update your document's title

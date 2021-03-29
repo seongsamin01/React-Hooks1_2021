@@ -1,7 +1,6 @@
 // 텍스트 opacity, duration ease-in-out, delay 를 사용해서 text가 시간차간격을 두고 나타나게 하는 것을 배웠다.
 import React, { useState, useEffect, useRef } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
 
     const useFadeIn = (duration = 1, delay = 0) => {
       if(typeof duration !== "number" || typeof delay !== "number") {

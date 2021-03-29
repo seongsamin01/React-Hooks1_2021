@@ -3,7 +3,6 @@
 // 이번 강의는 재밌었고, 유익했다!!!
 import React, { useState, useEffect, useRef } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
 
     const usePreventLeave = () => {
         const user = event => {

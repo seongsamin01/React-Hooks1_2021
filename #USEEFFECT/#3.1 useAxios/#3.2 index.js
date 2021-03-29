@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import ReactDOM from "react-dom";
 import useAxios from "./useAxios";
-import "./styles.css";
 
     const App = () => {
       const { loading, data, error, refetch } = useAxios({

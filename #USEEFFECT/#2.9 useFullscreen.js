@@ -2,7 +2,6 @@
 //element, triggerFull, exitFull 
 import React, { useState, useEffect, useRef, useCallback } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
 
     const useFullscreen = (callback) => {
       const element = useRef();
